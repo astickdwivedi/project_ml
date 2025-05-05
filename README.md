@@ -4,4 +4,4 @@ sentement analysis chatbot using : pytorch framework, LSTM (RNN), FLASK(connecti
 TO install DEPENDENCIES :
 USE 
 
-"ip install -r requirements.txt"
+"pip install -r requirements.txt"
